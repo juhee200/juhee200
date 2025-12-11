@@ -1,4 +1,5 @@
-## Blog Posting
+## Side project
+https://easy-easy-sql.streamlit.app/
 
 ## Open Source Contribution
 - https://github.com/kestra-io/plugin-jdbc/pull/718
